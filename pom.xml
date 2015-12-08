@@ -14,6 +14,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>${project.artifactId}</name>
+	<description>Generic Java 8 Developments Sandbox</description>
 	<url>https://github.com/kjwenger/${project.artifactId}</url>
 	<scm>
 		<url>${project.url}</url>
